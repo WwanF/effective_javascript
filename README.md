@@ -1,0 +1,2 @@
+# effective_javascript
+编写高质量javascript代码的68个有效方法
