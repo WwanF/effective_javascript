@@ -37,7 +37,7 @@ var fs = func(arr)
 console.log(fs[0]()) // undefined，为何？
 ```
 
-##解决方式一
+## 解决方式一
 ```javascript
 function func(arr) {
   var i = 0, result = [], n = arr.length
@@ -56,7 +56,7 @@ var fs = func(arr)
 console.log(fs[0]()) // 10
 ```
 
-##解决方式二
+## 解决方式二
 ```javascript
 function func(arr) {
   var i = 0, result = [], n = arr.length
