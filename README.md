@@ -1,5 +1,5 @@
 # effective_javascript
-编写高质量javascript代码的68个有效方法
+编写高质量javascript代码的68个有效方法，由浅入深
 
 ## 变量作用域
 - 01 尽量少用全局变量
